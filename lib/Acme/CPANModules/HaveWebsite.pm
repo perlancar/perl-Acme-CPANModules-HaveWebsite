@@ -19,7 +19,7 @@ _
     entries => [
         {module=>'App::Ack', website_url=>'https://beyondgrep.com/'},
         {module=>'App::cpanminus', website_url=>'http://cpanmin.us/'},
-        {module=>'App:perlbrew', website_url=>'https://perlbrew.pl/'},
+        {module=>'App::perlbrew', website_url=>'https://perlbrew.pl/'},
         {module=>'App::TimeTracker', website_url=>'http://timetracker.plix.at/'},
         {module=>'Catalyst', website_url=>'http://www.catalystframework.org/'},
         {module=>'Dancer', website_url=>'https://perldancer.org/'},
