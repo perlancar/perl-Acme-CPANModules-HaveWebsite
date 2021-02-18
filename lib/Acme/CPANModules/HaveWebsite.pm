@@ -11,7 +11,7 @@ our $LIST = {
     summary => 'Modules that have their own website',
     description => <<'_',
 
-This list is first constructed based on Gabor Szabo's post:
+This list was first constructed based on Gabor Szabo's post:
 <https://dev.to/szabgab/perl-modules-with-their-own-web-site-2gmo> on
 2021-02-16. It has then been updated with more entries.
 
