@@ -1,11 +1,12 @@
 package Acme::CPANModules::HaveWebsite;
 
+use strict;
+use warnings;
+
 # AUTHORITY
 # DATE
 # DIST
 # VERSION
-
-use strict;
 
 our $LIST = {
     summary => 'Modules that have their own website',
